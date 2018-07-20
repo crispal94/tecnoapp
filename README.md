@@ -1,0 +1,2 @@
+# tecnoapp
+Tecno Magazine App
